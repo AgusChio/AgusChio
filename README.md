@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="[https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)" width="300" height="400"/>
     <h1 align="center">Hola 👋, soy Agustina Chiodini</h1>
     <h1 align="center">Desarollador Web FullStack Java</h1>
     <h3 align="center">Soy una desarrolladora apasionada por aprender y dar lo mejor de mi en cada proyecto que esté en mis manos. Me gusta estar actualizada con todas las tecnologías nuevas que van surgiendo.</h3>
