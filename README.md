@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/kEEeJPaebgkt1CVEFU/giphy.gif" width="480" height="270"/>
     <h1 align="center">Hola 👋, soy Agustina Chiodini <br>Desarolladora Web FullStack Java</h1>
-    <h3 align="center">Soy una desarrolladora apasionada por aprender y dar lo mejor de mi en cada proyecto que esté en mis manos. Me gusta estar actualizada con todas las tecnologías nuevas que van surgiendo.</h3>
+    <h3 align="center" color="orange">Soy una desarrolladora apasionada por aprender y dar lo mejor de mi en cada proyecto que esté en mis manos. Me gusta estar actualizada con todas las tecnologías nuevas que van surgiendo.</h3>
 </div>
 
 ---
