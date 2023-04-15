@@ -18,6 +18,8 @@
  
 - 📧 Gmail: agus.chio25790@gmail.com
 
+- Portafolio: <a href="https://main--agustina-angular-postafolio.netlify.app/">Agustina Chiodini Portafolio</a>
+
 
 <div align="left">
     <h3>🔨 Lenguajes y herramientas:</h3>
