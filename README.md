@@ -8,9 +8,9 @@
 
 ### 👨‍💻 Sobre mí:
 
-- 🎓 Soy egresada de Mindhub en donde realicé el bootcamp de desarrollo full stack Java con más de 700 horas de aprendizaje y de desarrollo simulando un ambiente de trabajo real.
+- 🎓 Soy egresada de Argetina Programa y Mindhub en donde realicé el bootcamp de desarrollo full stack Java con más de 700 horas de aprendizaje y de desarrollo simulando un ambiente de trabajo real.
 
-- 🎯 Las tecnologías con las que he trabajado son: HTML, CSS, JavaScript, Bootstrap, VueJs, Java, Spring Boot, Postman y Postgres SQL.
+- 🎯 Las tecnologías con las que he trabajado son: HTML, CSS, JavaScript, Bootstrap, VueJs, Angular, Java, Spring Boot, Postman, Postgres SQL y MySQL.
 
 - 💼 En mi paso por el bootcamp realicé varios proyectos tanto individuales como grupales, manteniendo una actitud positiva ante a los diferentes retos. Te invito a visitar mi Github donde podrás encontrarlos. Si continúas interesado(a) no dudes en ponerte en contacto conmigo.
 
@@ -29,9 +29,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
       </div>
 </div>
